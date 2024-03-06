@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+header {
+    width: 1000px;
+    background-color: pink;
+}
+
+h1,h2,h3 {
+    margin-top: 0;
+}
+
+p {
+    margin-top: 0;
+}
+
+#wrapper {
+    margin: 0 auto;
+    height: 398px;
+    display: flex;
+
+}
+
+
+#main section {
+    margin-top: 0px;
+    width: 700px;
+    background-color: #ccffcc;
+}
+
+
+#menu ul {
+    margin-top: 0;
+    height: 400px;
+    width: 260px;
+    background-color: #ccccff;
+
+}
+
+footer {
+    margin-top: 0;
+    width: 1000px;
+    background-color: #ffccff;
+}
+
